@@ -1,0 +1,15 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: rgb(31, 41, 55);
+}
+
+.bpm-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.bpm {
+  font-size: 4rem;
+  color: rgb(255, 255, 255);
+  margin: 0;
+}

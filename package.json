@@ -1,0 +1,27 @@
+{
+  "name": "tempo-tapp",
+  "version": "1.0.0",
+  "description": "PWA for tempo tapping",
+  "scripts": {
+    "fix:prettier": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelfriberg/tempo-tapp.git"
+  },
+  "keywords": [
+    "tempo tapper",
+    "tempo",
+    "bpm",
+    "pwa"
+  ],
+  "author": "Axel Friberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelfriberg/tempo-tapp/issues"
+  },
+  "homepage": "https://github.com/axelfriberg/tempo-tapp#readme",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
