@@ -12,6 +12,7 @@ body {
   font-size: 4rem;
   color: rgb(255, 255, 255);
   margin: 0;
+  user-select: none;
 }
 
 @media only screen and (min-width: 600px) {
