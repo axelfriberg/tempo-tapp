@@ -1,0 +1,24 @@
+{
+  "name": "TempoTapp",
+  "icons": [
+    {
+      "src": "/images/metronome_128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/metronome_256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/images/metronome_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#1F2937",
+  "theme_color": "#1F2937"
+}
