@@ -2,19 +2,22 @@
   "name": "TempoTapp",
   "icons": [
     {
-      "src": "/images/metronome_128x128.png",
+      "src": "/images/TempoTapp_icon_192x192.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "192x192",
+      "purpose": "any"
     },
     {
-      "src": "/images/metronome_256x256.png",
+      "src": "/images/TempoTapp_icon_512x512.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "512x512",
+      "purpose": "any"
     },
     {
-      "src": "/images/metronome_512x512.png",
+      "src": "/images/TempoTapp_icon_maskable_512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
   "start_url": "/index.html",
